@@ -1,5 +1,8 @@
 # BancoDeDadosIndividual
 Banco de Dados
 
-![Alt text](<Modelo lógico.png>)
+Modelo Conceitual
 ![Alt text](<Modelo conceitual.png>)
+
+Modelo Lógico
+![Alt text](<Modelo lógico.png>)

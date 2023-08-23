@@ -1,18 +1,19 @@
 <!DOCTYPE  html>
 <html>
 <head>
-    <title>Projeto individual de Banco De Dados</title>
+    <h1>Projeto individual de Banco De Dados</h1>
 </head>
 <body>
 
-<h1>Realização da modelagem de banco de dados para uma aplicação voltada para a venda de veículos registrados pelos usuários.</h1>
-<h1>A seguir serão apresentados os modelos conceitual e lógico na nossa aplicação:</h1>
+<h2>Realização da modelagem de banco de dados para uma aplicação voltada para a venda de veículos registrados pelos usuários.</h2>
+<h3>A seguir serão apresentados os modelos conceitual e lógico na nossa aplicação:</h3>
 <h2>Modelo Conceitual:</h2>
-<img src="C:\dev\BancodeDadosIndividual\Modelo conceitual.png">
+
+    ![Alt text](<Modelo Conceitual Individual-1.png>)
 
 <h2>Modelo Lógico:</h2>
-<img src="C:\dev\BancodeDadosIndividual\Modelo lógico.png">
 
+    ![Alt text](<Modelo Lógico Individual-1.png>)
 
 </body>
 </html>

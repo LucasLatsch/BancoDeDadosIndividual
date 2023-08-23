@@ -9,11 +9,11 @@
 <h3>A seguir serão apresentados os modelos conceitual e lógico na nossa aplicação:</h3>
 <h2>Modelo Conceitual:</h2>
 
-    ![Alt text](<Modelo Conceitual Individual-1.png>)
+    <img src="Imagens/Modelo Conceitual Individual.png">
 
 <h2>Modelo Lógico:</h2>
 
-    ![Alt text](<Modelo Lógico Individual-1.png>)
+    img src="Imagens/Modelo Lógico Individual.png">
 
 </body>
 </html>

@@ -14,9 +14,9 @@
 
 <h4>Conclusão: O sistema oferece uma solução simples e eficiente para o controle e consultas de carros a venda relacionados diretamente com as informaçoes dos seus respetivos donos, otimizando a experiencia do cliente na busca do produto mais desejado.</h4>
 <h3>Plataformas utilizadas no projeto:</h3>
-<h2>
+<h4>
 <a href="https://dbeaver.io">Dbeaver</a><br/>
 <a href="https://app.diagrams.net">Draw.io</a>
-</h2>
+</h4>
 </body>
 </html>
